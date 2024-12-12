@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForDongusuAlistirma3", "For
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachAlistirma1", "ForEachAlistirma1\ForEachAlistirma1.csproj", "{09681790-2DF4-4013-8D22-51D255FAA6C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachDongusuAlistirma2", "ForEachDongusuAlistirma2\ForEachDongusuAlistirma2.csproj", "{4E3E3E79-F2CB-4DA2-873D-E31A52526C7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{09681790-2DF4-4013-8D22-51D255FAA6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09681790-2DF4-4013-8D22-51D255FAA6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09681790-2DF4-4013-8D22-51D255FAA6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3E3E79-F2CB-4DA2-873D-E31A52526C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3E3E79-F2CB-4DA2-873D-E31A52526C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3E3E79-F2CB-4DA2-873D-E31A52526C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3E3E79-F2CB-4DA2-873D-E31A52526C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
